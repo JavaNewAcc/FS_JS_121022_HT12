@@ -1,0 +1,22 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    transition: all 0.4s ease;
+}
+
+a:hover {
+    color: orange;
+}
+
+.additional_task {
+    font-size: 0.8rem;
+}
+
+html,
+body {
+    height: 100vh;
+}
